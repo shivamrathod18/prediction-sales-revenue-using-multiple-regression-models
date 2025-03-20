@@ -1,5 +1,5 @@
 
-Predict Sales Revenue Using Multiple Regressio
+Predict Sales Revenue Using Multiple Regression.
 
 ### Description:-
 
